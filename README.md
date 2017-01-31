@@ -1,2 +1,2 @@
 # hello-world
-This is the first Repository created by Sonia .
+This is the first repository created by Sonia .
